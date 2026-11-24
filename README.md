@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**sanjai414qt-web/sanjai414qt-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hi there 👋, I'm Sanjai K!
 🎓 B.Tech Artificial Intelligence and Data Science Student
